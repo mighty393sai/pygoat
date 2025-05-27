@@ -1,1 +1,1 @@
-FROM node:18-alpine
+almalinux:8
