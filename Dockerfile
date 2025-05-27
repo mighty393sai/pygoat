@@ -1,1 +1,1 @@
-FROM  almalinux:8
+FROM  python:3-slim
