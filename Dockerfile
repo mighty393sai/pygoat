@@ -1,1 +1,1 @@
-FROM  rhel:8
+FROM node:18-alpine
