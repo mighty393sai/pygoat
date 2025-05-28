@@ -1,1 +1,1 @@
-FROM  openjdk:8-alpine
+FROM  python:3-slim
