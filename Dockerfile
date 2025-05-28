@@ -1,1 +1,1 @@
-FROM  node:12.11.1-slim
+FROM  openjdk:8-alpine
