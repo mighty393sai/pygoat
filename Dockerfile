@@ -1,1 +1,1 @@
-FROM  python:3-slim
+FROM  node:12.11.1-slim
