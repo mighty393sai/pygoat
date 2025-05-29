@@ -1,1 +1,1 @@
-FROM  debian:unstable-slim
+FROM  nginx:stable-perl
