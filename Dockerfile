@@ -1,1 +1,1 @@
-FROM  python:3-slim
+FROM  postgres:latest
