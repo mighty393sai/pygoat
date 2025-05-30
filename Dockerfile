@@ -1,1 +1,1 @@
-FROM  ubutnu:20.04
+FROM  ubuntu:20.04
