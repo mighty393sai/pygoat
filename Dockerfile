@@ -1,1 +1,1 @@
-FROM  php:8.3.22RC1-zts-bookworm
+FROM  ubutnu:20.04
